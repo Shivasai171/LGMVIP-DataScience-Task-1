@@ -1,4 +1,5 @@
-Next Word Prediction
+Next Word Prediction:
+
 This project is a part of the Let's Grow More Data Science Internship program. It focuses on building a next word prediction model.
 
 Dataset:
